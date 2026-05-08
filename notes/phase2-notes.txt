@@ -1,0 +1,4 @@
+- Navigation: pwd, ls, cd
+- file ops: touch, cp, mv, rm, cat
+- text editing: nano, vim
+- permissions: chmod, chown
